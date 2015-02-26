@@ -1,0 +1,25 @@
+// ########## Variables ############
+// FONTS
+
+$font-stack: 'Raleway', sans-serif;
+$font-size: 16px;
+$font-hello: 7em;
+$font-title: 1.5em;
+
+// Google font
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:700,300);
+
+
+$oswald: 'Oswald', sans-serif;
+$raleway:'Raleway', sans-serif;
+
+// COLORS
+
+$blue: rgb(51, 102, 204);
+$red: rgb(247, 102, 102);
+$green: rgb(83, 206, 161);
+$black: rgb(29, 29, 27);
+$gray: rgb(60, 60, 59);
+$gray-light: rgb(237, 237, 237);
+$black-bg: rgba(29, 29, 27, 0.2);

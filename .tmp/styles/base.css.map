@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "file": "",
-  "sources": ["app/styles/base.scss"],
-  "names": [],
-  "mappings": "AAAA;EACE,OAAO;EACP,QAAQ;EACR,kBAAkB"
-}
